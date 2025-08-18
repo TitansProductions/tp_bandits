@@ -3,5 +3,5 @@
 
 ```lua
 -- @hasAmbushActive returns a boolean (true / false).
-local hasAmbushActive = tp_bandits:HasAmbushActive()
+local hasAmbushActive = exports.tp_bandits:HasAmbushActive()
 ```
